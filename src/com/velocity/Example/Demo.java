@@ -18,7 +18,11 @@ public class Demo {
 		list.add("My-SQL");
 		list.add("Git");
 		list.add("JDBC");
-		System.out.println(list);
+		list.add("added by Devraj");
+
+		for(String li: list){
+			System.out.println(li);
+		}
 	}
 
 }

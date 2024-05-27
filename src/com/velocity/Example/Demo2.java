@@ -6,6 +6,7 @@ public class Demo2 {
 		System.out.println("Hello All");
 		System.out.println("Welcome to git");
 		System.out.println("Writing New Message");
+		System.out.println("Welcome to conflict resolving");
 	}
 
 }

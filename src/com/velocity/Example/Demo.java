@@ -17,6 +17,7 @@ public class Demo {
 		list.add("Collection Framework");
 		list.add("My-SQL");
 		list.add("HTML/CSS");
+		list.add("Hibernate");
 		list.add("Git");
 		System.out.println(list);
 	}

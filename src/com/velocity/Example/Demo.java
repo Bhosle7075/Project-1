@@ -16,8 +16,8 @@ public class Demo {
 		list.add("Core-Java");
 		list.add("Collection Framework");
 		list.add("My-SQL");
+		list.add("HTML/CSS");
 		list.add("Git");
-		list.add("JDBC");
 		System.out.println(list);
 	}
 

@@ -16,11 +16,11 @@ public class Demo {
 		List<String> list = new ArrayList<String>();
 		list.add("Core-Java");
 		list.add("Collection Framework");
-		list.add("My-SQL");
 		list.add("HTML/CSS");
 		list.add("Hibernate");
 		list.add("Spring boot");
 		list.add("Git");
+		list.add("Converter");
 		System.out.println(list);
 	}
 	public void m2() {

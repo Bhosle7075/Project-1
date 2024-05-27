@@ -15,10 +15,12 @@ public class Demo {
 		List<String> list = new ArrayList<String>();
 		list.add("Core-Java");
 		list.add("Collection Framework");
-		list.add("My-SQL");
 		list.add("Git");
 		list.add("JDBC");
-		System.out.println(list);
+		//System.out.println(list);
+		for(String str:list){
+		System.out.println(str);	
+		}
 	}
 
 }

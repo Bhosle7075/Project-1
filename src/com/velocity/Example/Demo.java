@@ -9,6 +9,7 @@ public class Demo {
 	
 		Demo demo = new Demo();
 		demo.m1();
+		demo.m2();
 	}
 	
 	public void m1() {
@@ -20,6 +21,12 @@ public class Demo {
 		list.add("Hibernate");
 		list.add("Spring boot");
 		list.add("Git");
+		System.out.println(list);
+	}
+	public void m2() {
+		List<String> list = new ArrayList<String>();
+		list.add("Core-Java");
+		list.add("Collection Framework");
 		System.out.println(list);
 	}
 

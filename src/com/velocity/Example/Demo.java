@@ -18,6 +18,7 @@ public class Demo {
 		list.add("My-SQL");
 		list.add("HTML/CSS");
 		list.add("Hibernate");
+		list.add("Spring boot");
 		list.add("Git");
 		System.out.println(list);
 	}
